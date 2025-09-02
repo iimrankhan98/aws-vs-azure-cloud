@@ -8,5 +8,8 @@ AWS vs Azure
 7. Active Directory
 8. Key Vault
 9. Monitoring
-AWS vs Azure Services Compare
-1. aws elastic beanstalk vs Azure App services
+# AWS vs Azure Services Compare
+aws elastic beanstalk vs Azure App services
+
+aws cloudwatch vs Azure monitor
+aws backup service vs Azure Recovery Services vault (RSV)
