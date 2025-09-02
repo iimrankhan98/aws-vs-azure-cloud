@@ -10,7 +10,9 @@ AWS vs Azure
 9. Monitoring
 # AWS vs Azure Services Compare
 aws elastic beanstalk vs Azure App services
-
+aws ecs vs Azure Container Instance (ACI)
+aws global accelerator vs Azure Front Door
+aws cloudfront vs Azure CDN
 aws cloudwatch vs Azure monitor
 aws Route53 vs Azure DNS
 aws backup service vs Azure Recovery Services vault (RSV)
